@@ -1,0 +1,345 @@
+
+@media (min-width:1120px) and (max-width: 1600px) {
+          .about-us-second-part_two{
+      display: none;
+    }
+    .about-us-second-part_thr{
+        display: none; 
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px){
+    
+    
+.modal-dialog {
+max-width: 86%;
+margin-top: 32%;
+}  
+    
+    
+    
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .single-hero-slides {
+        height: 650px
+    }
+    
+    .hero-content h2 {
+        font-size: 42px
+    }
+    
+
+}
+    
+    #maps{
+        display:flex;
+    }
+    .calibri-single-dish {
+        padding: 25px 25px 15px
+    }
+    .calibri-single-dish:after {
+        width: calc(100% - 55px)
+    }
+             .about-us-second-part_two{
+      display: none;
+    }
+    .about-us-second-part_thr{
+        display: none; 
+    }
+    .testimonials-content {
+        padding: 50px
+    }
+    
+    
+    .contact-form {
+        width: 400px;
+        margin-right: 30px;
+        padding-left: 15px
+    }
+   
+    .calibri-footer-area .navbar-brand {
+        margin-bottom: 20px
+    }
+    .dish-description {
+        margin: 0 50px
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .navbar-toggler {
+        border: 2px solid #fff;
+        color: #fff;
+        margin: 26px 0
+    }
+      
+      .modal-dialog {
+    max-width:100%;
+    margin-top:53%;
+}
+         
+    .sticky .navbar-toggler {
+        margin: 11px 0
+    }
+    #calibriNav {
+        padding: 30px;
+        background-color: rgba(0, 0, 0, 0.95);
+        box-shadow: 1px 9px 10px rgba(255, 255, 255, 0.15);
+        border-radius: 0 0 3px 3px
+    }
+              .about-us-second-part_two{
+      display: none;
+    }
+    .about-us-second-part_thr{
+        display: none; 
+    }
+    #maps{
+        display:flex;
+    }
+    .single-hero-slides {
+        height: 600px
+    }
+    .hero-content h2 {
+        font-size: 42px
+    }
+    .single-hero-slides:after {
+        width: 50%
+    }
+    .hero-slides-nav {
+        width: 300px;
+        height: 170px
+    }
+    .calibri-hero-area .owl-next {
+        bottom: 148px;
+        right: 278px
+    }
+    
+    .about-us-second-part:after {
+        top: 145px;
+        font-size: 100px
+    }
+    .about-us-second-part:before {
+        left: 50px
+    }
+    .calibri-single-dish {
+        padding: 15px
+    }
+    .calibri-single-dish:after {
+        width: calc(100% - 45px)
+    }
+    .dish-info .dish-name {
+        font-size: 14px
+    }
+    .calibri-dish-menu:before {
+        font-size: 100px;
+        right: -20%;
+        top: 30%
+    }
+    .testimonials-content {
+        padding: 30px
+    }
+    
+    .contact-form {
+        width: 300px;
+        margin-right: 30px;
+        padding: 50px 0
+    }
+    .breadcumb-area:before,
+    .reservation-side-thumb,
+    
+    .contact-form-area {
+        width: 50%
+    }
+    .calibri-about-us-area {
+        padding: 100px 0
+    }
+    .calibri-testimonials-area,
+    .calibri-dish-menu,
+     {
+        padding-bottom: 100px
+    }
+    .dish-description {
+        margin: 0 30px
+    }
+    .dish-description h3 {
+        font-size: 20px;
+        margin-bottom: 10px
+    }
+    .calibri-map-area {
+        width: 50%
+    }
+  
+    
+}
+@media (min-width: 320px) and (max-width: 767px) {
+    .navbar-toggler {
+        border: 2px solid #fff;
+        color: #fff;
+        margin: 26px 0
+    }
+    .sticky .navbar-toggler {
+        margin: 11px 0
+    }
+    
+    .modal-dialog {
+    max-width:100%;
+    margin-top:54%;
+}
+    
+    
+      .navbar-expand-lg .navbar-nav .nav-link{
+        font-size:17px;
+    }
+    .dropdown-item{
+        font-size:17px;
+    }
+      .about-us-second-part_two{
+      display: none;
+    }
+    .about-us-second-part_thr{
+        display: none; 
+    }
+    .menu-heading > a {
+        top:auto;
+    }
+    .page-item .dec-line-b-c{
+        left: 34%;
+    }
+    .page-item:hover .image:after{
+        left: -1px;
+    }
+    .page-item:hover .image img{
+        transform: translate(0px, 12px);
+        -webkit-transform: translate(0px, 12px);
+    }
+    #maps{
+        display: flex;
+    }
+    
+     #fix1{
+           padding-bottom: 41px; 
+    }
+    #fix2{
+          padding-top: 55px;  
+    }
+    #fix3{
+         padding: 0px 99px; 
+    }
+    
+    #myCarousel{
+        margin: 0px!important ; 
+     padding: 0 0px!important;
+    }
+    #calibriNav {
+        padding: 15px;
+        background-color: rgba(0, 0, 0, 0.95);
+        box-shadow: 1px 9px 10px rgba(255, 255, 255, 0.15);
+        border-radius: 0 0 3px 3px
+    }
+    .single-hero-slides {
+        height: 600px
+    }
+    .hero-content h2 {
+        font-size: 36px
+    }
+    .single-hero-slides:after {
+        width: 60%
+    }
+    .hero-slides-nav {
+        width: 200px;
+        height: 100px
+    }
+    .calibri-hero-area .owl-next {
+        bottom: 78px;
+        right: 178px
+    }
+    .welcome-social-info {
+        right: 15px
+    }
+    .hero-content p {
+        margin-bottom: 30px
+    }
+    .calibri-about-us-area {
+        padding: 70px 0
+    }
+    .calibri-testimonials-area,
+    .calibri-dish-menu,
+     {
+        padding-bottom: 100px
+    }
+    .about-us-thumbnail {
+        margin: 30px 0
+    }
+    .about-us-second-part:after {
+        font-size: 60px
+    }
+    .about-us-second-part:before {
+        top: 100px;
+        left: 0
+    }
+   
+    .calibri-single-dish {
+        padding: 20px;
+        margin-bottom: 50px
+    }
+    .calibri-dish-menu .row .col-12:first-child .calibri-single-dish:before {
+        top: -15px;
+        left: -15px
+    }
+    .calibri-single-dish:after {
+        width: calc(100% - 45px)
+    }
+    
+    
+    
+    .testimonials-content {
+        padding: 15px
+    }
+    .reservation-side-thumb,
+    
+    .contact-form-area {
+        width: 100%
+    }
+    
+    .contact-form {
+        width: 100%;
+        margin-right: 0;
+        padding: 50px 15px
+    }
+    .calibri-dish-menu:before {
+        right: -50%
+    }
+    .breadcumb-area:before {
+        width: 70%
+    }
+    .portfolio-menu button {
+        font-size: 12px;
+        letter-spacing: 1px;
+        margin: 0 5px
+    }
+    .food-menu-title > h2 {
+        font-size: 80px;
+        top: 200px
+    }
+    .dish-description h3 {
+        font-size: 14px;
+        margin-bottom: 10px
+    }
+    .dish-description {
+        margin: 30px 0
+    }
+    .calibri-map-area {
+        width: 100%
+    }
+}
+@media (min-width: 576px) and (max-width: 767px) {
+    .dish-description {
+        margin: 0 30px
+    }
+    .dish-description p {
+        font-size: 14px
+    }
+    
+}

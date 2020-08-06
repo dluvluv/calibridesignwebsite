@@ -1,0 +1,183 @@
+[06-Jan-2020 20:52:47 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[06-Jan-2020 20:52:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[06-Jan-2020 20:52:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 39
+[06-Jan-2020 20:52:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 39
+[06-Jan-2020 21:03:37 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[06-Jan-2020 21:03:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 40
+[06-Jan-2020 21:18:19 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[06-Jan-2020 21:18:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[06-Jan-2020 21:19:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[06-Jan-2020 21:19:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:19:54 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:19:54 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:19:55 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:19:56 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:19:56 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:19:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:19:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:19:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:19:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:19:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:20:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:20:44 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:20:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:20:45 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:20:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:20:47 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:20:47 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:20:47 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:20:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:20:48 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:20:48 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:20:48 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:20:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:20:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:20:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:20:49 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:20:50 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:20:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:20:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:20:50 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Jan-2020 08:20:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:20:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:20:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:20:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:20:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:20:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:20:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:20:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:20:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Jan-2020 08:20:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function text() in /home/calibri604/public_html/mail.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/calibri604/public_html/mail.php on line 41
+[25-Mar-2020 22:50:23 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Mar-2020 22:51:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Mar-2020 22:51:43 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Mar-2020 22:53:06 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Mar-2020 22:53:16 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Mar-2020 22:57:02 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Mar-2020 23:00:47 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Mar-2020 23:05:55 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Mar-2020 23:05:55 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`wp1.canadianwebhosting.com' did not match expected CN=`smtp.gmail.com' in /home/calibri604/public_html/phpmailer/class.smtp.php on line 354
+[25-Mar-2020 23:06:22 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Mar-2020 23:06:22 UTC] PHP Warning:  stream_socket_enable_crypto(): Peer certificate CN=`wp1.canadianwebhosting.com' did not match expected CN=`smtp.gmail.com' in /home/calibri604/public_html/phpmailer/class.smtp.php on line 354
+[25-Mar-2020 23:08:10 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Mar-2020 23:08:25 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Mar-2020 23:08:25 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Mar-2020 23:08:25 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Mar-2020 23:08:26 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Mar-2020 23:08:38 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Mar-2020 23:09:21 UTC] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/calibri604/public_html/phpmailer/class.phpmailer.php:1466
+Stack trace:
+#0 /home/calibri604/public_html/phpmailer/class.phpmailer.php(1549): PHPMailer->getSMTPInstance()
+#1 /home/calibri604/public_html/phpmailer/class.phpmailer.php(1486): PHPMailer->smtpConnect(Array)
+#2 /home/calibri604/public_html/phpmailer/class.phpmailer.php(1323): PHPMailer->smtpSend('Date: Wed, 25 M...', ' \xD0\xBE\xD1\x81\xD1\x82\xD0\xB0\xD0\xB2\xD0\xB8\xD0\xBB...')
+#3 /home/calibri604/public_html/phpmailer/class.phpmailer.php(1203): PHPMailer->postSend()
+#4 /home/calibri604/public_html/mail.php(21): PHPMailer->send()
+#5 {main}
+  thrown in /home/calibri604/public_html/phpmailer/class.phpmailer.php on line 1466
+[25-Mar-2020 23:09:21 UTC] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/calibri604/public_html/phpmailer/class.phpmailer.php:1466
+Stack trace:
+#0 /home/calibri604/public_html/phpmailer/class.phpmailer.php(1549): PHPMailer->getSMTPInstance()
+#1 /home/calibri604/public_html/phpmailer/class.phpmailer.php(1486): PHPMailer->smtpConnect(Array)
+#2 /home/calibri604/public_html/phpmailer/class.phpmailer.php(1323): PHPMailer->smtpSend('Date: Wed, 25 M...', ' \xD0\xBE\xD1\x81\xD1\x82\xD0\xB0\xD0\xB2\xD0\xB8\xD0\xBB...')
+#3 /home/calibri604/public_html/phpmailer/class.phpmailer.php(1203): PHPMailer->postSend()
+#4 /home/calibri604/public_html/mail.php(21): PHPMailer->send()
+#5 {main}
+  thrown in /home/calibri604/public_html/phpmailer/class.phpmailer.php on line 1466
+[25-Mar-2020 23:09:28 UTC] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/calibri604/public_html/phpmailer/class.phpmailer.php:1466
+Stack trace:
+#0 /home/calibri604/public_html/phpmailer/class.phpmailer.php(1549): PHPMailer->getSMTPInstance()
+#1 /home/calibri604/public_html/phpmailer/class.phpmailer.php(1486): PHPMailer->smtpConnect(Array)
+#2 /home/calibri604/public_html/phpmailer/class.phpmailer.php(1323): PHPMailer->smtpSend('Date: Wed, 25 M...', ' \xD0\xBE\xD1\x81\xD1\x82\xD0\xB0\xD0\xB2\xD0\xB8\xD0\xBB...')
+#3 /home/calibri604/public_html/phpmailer/class.phpmailer.php(1203): PHPMailer->postSend()
+#4 /home/calibri604/public_html/mail.php(21): PHPMailer->send()
+#5 {main}
+  thrown in /home/calibri604/public_html/phpmailer/class.phpmailer.php on line 1466
+[25-Mar-2020 23:09:39 UTC] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/calibri604/public_html/phpmailer/class.phpmailer.php:1466
+Stack trace:
+#0 /home/calibri604/public_html/phpmailer/class.phpmailer.php(1549): PHPMailer->getSMTPInstance()
+#1 /home/calibri604/public_html/phpmailer/class.phpmailer.php(1486): PHPMailer->smtpConnect(Array)
+#2 /home/calibri604/public_html/phpmailer/class.phpmailer.php(1323): PHPMailer->smtpSend('Date: Wed, 25 M...', ' \xD0\xBE\xD1\x81\xD1\x82\xD0\xB0\xD0\xB2\xD0\xB8\xD0\xBB...')
+#3 /home/calibri604/public_html/phpmailer/class.phpmailer.php(1203): PHPMailer->postSend()
+#4 /home/calibri604/public_html/mail.php(21): PHPMailer->send()
+#5 {main}
+  thrown in /home/calibri604/public_html/phpmailer/class.phpmailer.php on line 1466
+[25-Mar-2020 23:10:17 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[25-Mar-2020 23:11:08 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[27-Mar-2020 00:35:44 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[27-Mar-2020 00:35:44 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
+[27-Mar-2020 00:45:07 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/calibri604/public_html/phpmailer/PHPMailerAutoload.php on line 45
